@@ -7,65 +7,65 @@
 ## Pages
 
 ### בית
-https://aura-style-868faa69.zappy5.app
+https://example.com
 גלה את עולם אופנת הגברים של AURA style: נעלי גברים אופנתיות המשתלבות בצורה מושלמת עם ג&#39;ינס, לצד קולקציות לבוש מעודכנות. היכנס עכשיו להתאמה אישית של סטייל מנצח.
 
 ### סיפור הקולקציות
-https://aura-style-868faa69.zappy5.app/collections-story
+https://example.com/collections-story
 היכנס אל מאחורי הקלעים של קולקציות הגברים שלנו: איך נולד השילוב המנצח בין נעלי גברים אופנתיות לג&#39;ינס המושלם. הצטרף למסע הסטיילינג שישדרג את המראה שלך.
 
 ### סיפור המותג
-https://aura-style-868faa69.zappy5.app/brand-story
+https://example.com/brand-story
 הכירו את AURA style מקרוב: מותג אופנת גברים שנולד מהתשוקה לחבר בין נעלי גברים אופנתיות לג&#39;ינס איכותי. למה אנחנו שונים? כנסו וגלו את הסיפור שמניע אותנו.
 
 ### צור קשר
-https://aura-style-868faa69.zappy5.app/contact
+https://example.com/contact
 יש לך שאלה על השילוב המושלם בין נעלי גברים אופנתיות לג&#39;ינס? צור קשר עם AURA style עוד היום ונעזור לך לבנות לוק מנצח מא&#39; עד ת&#39;. המומחים שלנו מחכים לך.
 
 ### Products
-https://aura-style-868faa69.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - AURA style
 
 ### Cart
-https://aura-style-868faa69.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://aura-style-868faa69.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://aura-style-868faa69.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://aura-style-868faa69.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://aura-style-868faa69.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://aura-style-868faa69.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - AURA style
 
 ### Category
-https://aura-style-868faa69.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - AURA style
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://aura-style-868faa69.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://aura-style-868faa69.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://aura-style-868faa69.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -94,8 +94,8 @@ Men's Fashion & Footwear
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://aura-style-868faa69.zappy5.app/sitemap.xml
-- Robots: https://aura-style-868faa69.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://aura-style-868faa69.zappy5.app/llms-full.txt
-- Products (JSON): https://aura-style-868faa69.zappy5.app/products.json
-- Products (Google Merchant RSS): https://aura-style-868faa69.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
